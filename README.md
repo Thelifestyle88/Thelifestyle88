@@ -1,5 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B813F7&width=500&height=100&lines=Hello%2C+all!;Hello%2C+all!+Let+me+introduce+myself.+My+name+is+Nick+and+I+began+my+difficult+way+to+intersting+world+of+Frontend+Development!;+I+code+with%3A+CSS%2C+HTML%2C+JS%2C+React.)](https://git.io/typing-svg)
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=B813F7&center=true&multiline=true&repeat=false&width=1200&height=200&lines=Hello%2C+all!;Let+me+introduce+myself.+;My+name+is+Nick+and+I+began+my+difficult+way+to+intersting+world+of+Frontend+Development!;+I+code+with%3A+CSS%2C+HTML%2C+JS%2C+React.;I+try+to+become+a+brilliant+Developer+because+it's+my+dream+since+school)](https://git.io/typing-svg)
 <!--
 **Thelifestyle88/Thelifestyle88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

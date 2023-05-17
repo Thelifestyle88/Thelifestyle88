@@ -42,6 +42,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thelifestyle88&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelifestyle88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://www.codewars.com/users/Thelifestyle88/badges/large"
   </div>

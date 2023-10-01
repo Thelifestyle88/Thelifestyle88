@@ -36,7 +36,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Thelifestyle88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thelifestyle88&theme=dark)](https://git.io/streak-stats)
 ## CodeWars stats:
 <div>
 <img src="https://www.codewars.com/users/Thelifestyle88/badges/large"

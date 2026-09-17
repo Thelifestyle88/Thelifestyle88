@@ -81,11 +81,6 @@ I'm **Nick Nikolaenko** (Николаенко Николай) — a **Senior Fro
 ### :fire: My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thelifestyle88&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thelifestyle88&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Thelifestyle88&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
